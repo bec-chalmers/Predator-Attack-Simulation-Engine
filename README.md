@@ -17,6 +17,16 @@ The system stores and reads predator types, and their associated danger factor p
 The system writes a viability report, containing farm information, recommended number of alpaca guards, and financial and statistical data, to 'alpacaSheepGuardViability.txt'.
 
 ### Project Setup Instructions 
-1. Open your terminal and navigate to the file location of the project.
-2. Enter 'javac AlpacaSheepGuards.java' to compile the program.
-3. Enter 'java AlpacaSheepGuards' to run the program.
+
+**Prerequisites**
+1.  Ensure you have the JDK (Java Development Kit) installed (version 8 or higher).
+    Verify by running java -version in your terminal.
+
+**Execution Steps**
+1.  Open your terminal and navigate to the project's root directory.
+2.  Move into the source folder:
+        `cd src`
+3.  Compile the program:
+        `javac AlpacaSheepGuards.java`
+4.  Run the program:
+        `java AlpacaSheepGuards`
