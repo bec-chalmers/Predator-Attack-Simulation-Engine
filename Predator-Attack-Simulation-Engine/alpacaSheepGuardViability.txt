@@ -1,0 +1,11 @@
+Alpaca Sheep Guard Viability Report
+-----------------------------------
+Farm Name: Bec's Farm
+Number of Sheep: 40
+Number of Lambs: 20
+Recommended Protection Level: 2
+Total Cost for Recommended Protection Level: $%.2f
+3031.7458566895048
+Predicted Total Deaths: $%.2f
+8.0
+Most Troublesome Predator: Dingo

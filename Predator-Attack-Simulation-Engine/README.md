@@ -12,4 +12,11 @@ There are no external dependencies or database setup required for this applicati
 | **Libraries**                  | None — only uses standard Java packages |
 
 ### Data Files
-The system stores and reads predator types, and their associated danger factor per Australian state, via the predators.txt file.
+The system stores and reads predator types, and their associated danger factor per Australian state, via the 'predators.txt' file.
+
+The system writes a viability report, containing farm information, recommended number of alpaca guards, and financial and statistical data, to 'alpacaSheepGuardViability.txt'.
+
+### Project Setup Instructions 
+1. Open your terminal and navigate to the file location of the project.
+2. Enter 'javac AlpacaSheepGuards.java' to compile the program.
+3. Enter 'java AlpacaSheepGuards' to run the program.
